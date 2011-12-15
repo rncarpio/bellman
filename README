@@ -2,13 +2,13 @@
 
 Code for solving dynamic programming optimization problems (i.e. Bellman equations)
 through value & policy function iteration.  This code was developed as part of my
-paper, "Maturity Mismatch and Fractional-Reserve Banking" (see rncarpio.com for more
+paper, "Maturity Mismatch and Fractional-Reserve Banking" (see http://rncarpio.com for more
 on my economics research).
 
 Some projects that the code relies upon are:
- - Python, Scipy, Numpy : python.org, scipy.org
- - PythonXY, a convenient all-in-one distribution for Python : pythonxy.com
- - Intel's Thread Building Blocks library for parallel computing : threadingbuildingblocks.org
+ - Python, Scipy, Numpy : http://python.org, http://scipy.org
+ - PythonXY, a convenient all-in-one distribution for Python : http://pythonxy.com
+ - Intel's Thread Building Blocks library for parallel computing : http://threadingbuildingblocks.org
  - Boost.Python, for mixing C++ with Python : http://www.boost.org/doc/libs/release/libs/python/
  - PyUBlas, a glue layer between numpy and C++ matrices : http://mathema.tician.de/software/pyublas
 
